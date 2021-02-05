@@ -1,0 +1,21 @@
+package com.example.myapplication
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+    }
+}
+<TextView
+    android:id="@+id/text_title_main"
+
+<ImageView
+    getWindow().setFlags(WindowManager.LayoutParams.Flag)
+android:id="@+"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="56dp"/>
+        android:layout_height="56dp"/>
